@@ -2,7 +2,7 @@
 
 **full-stack developer** building fast, clean, and user-friendly websites and web apps — from landing pages for local businesses to full dashboards with APIs behind them.
 
-💼 **Currently open to freelance projects** — let's build something together.
+💼 **Currently open to work** — let's build something together.
 
 🌐 **Portfolio:** [krishna-studio-mu.vercel.app](https://krishna-studio-mu.vercel.app/)
 
