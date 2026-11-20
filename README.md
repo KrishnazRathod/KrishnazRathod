@@ -22,14 +22,6 @@
 - **Web apps & dashboards** — Next.js front-ends with REST APIs and Node.js back-ends
 - **Full-stack product work** — contributing front-end and back-end features to production apps
 
-### 📂 Featured projects
-| Project | Stack | Live |
-|---|---|---|
-| [Task Manager](https://github.com/KrishnazRathod/Task-Manager) — create tasks and move them through statuses | JavaScript | [Demo](https://task-manager-iota-topaz-85.vercel.app) |
-| [Next.js Dashboard](https://github.com/KrishnazRathod/next.js-dashboard) | Next.js · TypeScript | [Demo](https://next-js-dashboarding.vercel.app) |
-| [Todo API + Web App](https://github.com/KrishnazRathod/todo_api) | Node.js · JavaScript | [Demo](https://todo-web-app-omega.vercel.app) |
-| [Rural Development Demo](https://github.com/KrishnazRathod/fictional_rural_development_demo) | JavaScript | [Demo](https://fictional-rural-development-demo.vercel.app) |
-| [Car Showcase](https://github.com/KrishnazRathod/car-showcase) | Next.js · TypeScript | — |
 
 ### 📫 Let's work together
 [![Email](https://img.shields.io/badge/Email-krishnarathod7089%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:krishnarathod7089@gmail.com)
